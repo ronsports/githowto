@@ -38,9 +38,9 @@ git reset --hard v1
 
 Giti  töövoog käib järgmiseni:
 
-1. [ ] Muudatuste tegemine: Muudad või lood uusi faile oma kaustas.
-2. [ ] Lava ettevalmistus: Lisad failid lavale käsuga `git add .`
-3. [ ] Salvestamine: Teed püsiva salvestise käsuga `git commit -m "sõnum"`.
+1. Muudatuste tegemine: Muudad või lood uusi faile oma kaustas.
+2. Lava ettevalmistus: Lisad failid lavale käsuga `git add .`
+3. Salvestamine: Teed püsiva salvestise käsuga `git commit -m "sõnum"`.
 
 ### Failide liigutamine
 Kui tahtsin stiili faili viia css kausta, siis kasutasin seda koodi blokki:
